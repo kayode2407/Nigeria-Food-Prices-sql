@@ -1,0 +1,44 @@
+item_id,item_name,category,lowest_state,lowest_price,highest_state,highest_price
+1,Agric eggs medium size,Eggs,Borno,411.67,Bayelsa,800.0
+2,Agric eggs(medium size price of one),Eggs,Taraba,41.51,Ogun,70.06
+3,"Beans brown,sold loose",Beans,Bauchi,234.29,Anambra,899.4
+4,Beans:white black eye. sold loose,Beans,Bauchi,235.22,Ebonyi,887.77
+5,Beef Bone in,Meat,Taraba,975.2,Abuja,1885.99
+6,"Beef,boneless",Meat,Gombe,1248.2,Abuja,2533.33
+7,Bread sliced 500g,Bread,Bauchi,246.67,Abuja,605.75
+8,Bread unsliced 500g,Bread,Plateau,238.75,Abuja,633.58
+9,Broken Rice (Ofada),Grains,Nasarawa,301.54,Lagos,842.5
+10,Catfish (obokun) fresh,Fish,Yobe,731.82,Abia,2000.35
+11,Catfish :dried,Fish,Zamfara,1300.0,Abuja,3553.53
+12,Catfish Smoked,Fish,Benue,1324.25,Abia,2178.71
+13,Chicken Feet,Meat,Taraba,305.21,Delta,1445.45
+14,Chicken Wings,Meat,Adamawa,495.1,Delta,2023.64
+15,Dried Fish Sardine,Fish,Ondo,1241.62,Abia,2523.09
+16,Evaporated tinned milk carnation 170g,Dairy,Anambra,125.06,Edo,271.43
+17,"Evaporated tinned milk(peak), 170g",Dairy,Benue,172.83,Ondo,343.53
+18,Frozen chicken,Meat,Taraba,1360.25,Abuja,3200.0
+19,"Gari white,sold loose",Tubers,Katsina,200.0,Ebonyi,468.36
+20,"Gari yellow,sold loose",Tubers,Kebbi,221.33,Ebonyi,507.58
+21,"Groundnut oil: 1 bottle, specify bottle",Oils,Kogi,500.0,Ebonyi,1333.33
+22,Iced Sardine,Fish,Bauchi,862.1,Edo,1882.05
+23,Irish potato,Tubers,Plateau,161.79,Ebonyi,850.0
+24,Mackerel : frozen,Fish,Bauchi,911.16,Anambra,2046.09
+25,Maize grain white sold loose,Grains,Adamawa,150.38,Bayelsa,465.44
+26,Maize grain yellow sold loose,Grains,Adamawa,151.48,Bayelsa,465.96
+27,Mudfish (aro) fresh,Fish,Bauchi,723.8,Abuja,1875.0
+28,Mudfish : dried,Fish,Bauchi,1294.89,Abia,2950.4
+29,Onion bulb,Vegetables and Fruit,Nasarawa,129.23,Akwa Ibom,679.71
+30,"Palm oil: 1 bottle,specify bottle",Oils,Kwara,446.67,Enugu,1063.89
+31,Plantain(ripe),Vegetables and Fruit,Gombe,136.89,Anambra,488.18
+32,Plantain(unripe),Vegetables and Fruit,Cross River,169.13,Anambra,405.36
+33,Rice agric sold loose,Grains,Jigawa,345.0,Akwa Ibom,668.58
+34,Rice local sold loose,Grains,Kebbi,315.84,Bayelsa,588.9
+35,Rice Medium Grained,Grains,Kebbi,297.91,Bayelsa,671.43
+36,"Rice,imported high quality sold loose",Grains,Borno,400.64,Rivers,790.14
+37,Sweet potato,Tubers,Bauchi,122.53,Akwa Ibom,386.57
+38,Tilapia fish (epiya) fresh,Fish,Bauchi,448.13,Abuja,2000.56
+39,Titus:frozen,Fish,Adamawa,840.7,Delta,2287.4
+40,Tomato,Vegetables and Fruit,Bauchi,121.27,Abia,682.56
+41,"Vegetable oil:1 bottle,specify bottle",Oils,Niger,495.89,Ekiti,1250.0
+42,Wheat flour: prepacked (golden penny 2kg),Grains,Niger,695.12,Abuja,1240.0
+43,Yam tuber,Tubers,Taraba,125.33,Lagos,600.27
