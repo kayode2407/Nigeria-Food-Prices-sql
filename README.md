@@ -2,7 +2,10 @@
 
 ## Question
 Using the same National Bureau of Statistics (NBS) data as my [Excel project](https://github.com/kayode2407/nigeria-food-prices-excel), how did food prices change, which items and categories rose fastest, and how big are the price gaps between states?
-
+   ## Example: fastest-rising item in each category (Query 8)
+   ![Query 8 code](SQL_Query8_code.png)
+   ![Query 8 result](SQL_Query8_result.png)
+   
 ## Data
 Two tables in MySQL:
 - `items`: 43 food items with category, plus the cheapest and most expensive state (Nov 2021)
